@@ -1,1 +1,7 @@
-# Nodemailer
+Node.js, Express.js, and Nodemailer are widely used technologies for developing modern, scalable, and interactive web applications. Node.js is a JavaScript runtime environment that allows developers to execute JavaScript on the server side. It is built on Chrome’s V8 JavaScript engine and provides a non-blocking, event-driven architecture, making it suitable for applications that require efficient handling of multiple requests.
+
+Express.js is a lightweight and flexible web application framework built on Node.js. It simplifies backend development by providing features for creating APIs, managing HTTP requests and responses, handling routes, implementing middleware, and connecting applications with databases. Express.js is commonly used to develop RESTful APIs that communicate with frontend applications.
+
+Nodemailer is a Node.js module used to send emails directly from a server-side application. It supports popular email services and SMTP servers and can be configured with authentication credentials. Nodemailer can send different types of emails, including plain-text messages, HTML templates, verification emails, password-reset links, booking confirmations, notifications, and invoices.
+
+Together, Node.js and Express.js provide the backend infrastructure, while Nodemailer adds reliable email communication capabilities. For example, an application can use Express.js to receive a user registration request, Node.js to process the request, and Nodemailer to send an OTP or confirmation email. This combination makes it easier to build secure, responsive, and feature-rich web applications.
